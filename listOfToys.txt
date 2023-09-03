@@ -1,0 +1,3 @@
+	ID: 1;  name: машинка;  count: 0;  weight: 83;  bound: 117 Sun Sep 03 13:11:38 NOVT 2023
+	ID: 3;  name: пиротехнтка;  count: 0;  weight: 94;  bound: 239 Sun Sep 03 14:12:33 NOVT 2023
+	ID: 1;  name: кроссворды;  count: 2;  weight: 42;  bound: 59 Sun Sep 03 14:17:44 NOVT 2023
